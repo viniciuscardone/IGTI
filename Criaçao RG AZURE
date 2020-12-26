@@ -1,0 +1,11 @@
+{
+    "id": "/subscriptions/0d90afe1-7f4b-49a6-9b6e-6002ef5bab76/resourceGroups/rg-demodulo2",
+    "name": "rg-demodulo2",
+    "location": "eastus2",
+    "tags": {
+        "Engenharia": "CC"
+    },
+    "properties": {
+        "provisioningState": "Succeeded"
+    }
+}
